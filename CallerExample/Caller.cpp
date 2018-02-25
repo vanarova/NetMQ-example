@@ -300,19 +300,17 @@ void ReadMDF4Example(int colStart, int colEnd, int showMeta, CString inpath)
 	}
 
 	// Get an MDF4 file
-	//CFileDialog fdlg(TRUE,_T(".mf4"));
-	//if (fdlg.DoModal() != IDOK)
-	//	return;
-	//if(showMeta == 1)
-	//printf("File %S\n", fdlg.GetPathName());
-	//m4.OpenMDF4(fdlg.GetPathName());
+	CFileDialog fdlg(TRUE,_T(".mf4"));
+	if (fdlg.DoModal() != IDOK)
+		return;
+	if(showMeta == 1)
+	printf("File %S\n", fdlg.GetPathName());
+	m4.OpenMDF4(fdlg.GetPathName());
 
 
-	std::string STDStr(CW2A(inpath.GetString()));
+	//std::string STDStr(CW2A(inpath.GetString()));
 	
 	
-	LPCTSTR lpctszStr = inpath;
-m4.OpenMDF4(lpctszStr);
 
   lVersion = m4.get_Version();
   bIsMDF4 = lVersion >= 400;
