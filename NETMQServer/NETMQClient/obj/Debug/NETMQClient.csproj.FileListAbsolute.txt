@@ -1,0 +1,13 @@
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\bin\Debug\NETMQClient.exe.config
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\bin\Debug\NETMQClient.exe
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\bin\Debug\NETMQClient.pdb
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\bin\Debug\AsyncIO.dll
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\bin\Debug\NetMQ.dll
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\bin\Debug\AsyncIO.pdb
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\bin\Debug\NetMQ.pdb
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\bin\Debug\NetMQ.xml
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\obj\Debug\NETMQClient.csprojAssemblyReference.cache
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\obj\Debug\NETMQClient.csproj.CoreCompileInputs.cache
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\obj\Debug\NETMQClient.csproj.CopyComplete
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\obj\Debug\NETMQClient.exe
+C:\Users\Arunav\source\repos\NETMQServer\NETMQClient\obj\Debug\NETMQClient.pdb

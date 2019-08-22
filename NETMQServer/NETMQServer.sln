@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28721.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETMQServer", "NETMQServer\NETMQServer.csproj", "{81994105-24B1-492C-B74E-9360C157B1DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETMQClient", "NETMQClient\NETMQClient.csproj", "{D3097C17-6DCE-4987-99F3-9B91E76DE5F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81994105-24B1-492C-B74E-9360C157B1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81994105-24B1-492C-B74E-9360C157B1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81994105-24B1-492C-B74E-9360C157B1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81994105-24B1-492C-B74E-9360C157B1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3097C17-6DCE-4987-99F3-9B91E76DE5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3097C17-6DCE-4987-99F3-9B91E76DE5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3097C17-6DCE-4987-99F3-9B91E76DE5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3097C17-6DCE-4987-99F3-9B91E76DE5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B633B4-9133-4B50-B450-2EF07345CAF6}
+	EndGlobalSection
+EndGlobal
